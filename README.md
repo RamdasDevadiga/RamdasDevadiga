@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamdasDevadiga
-- 👀 I’m interested in Programming Adruino with Python
+- 👀 I’m interested in Programming Arduino with Python
 - 🌱 I’m currently learning Python (beginner lvl)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
